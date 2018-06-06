@@ -5,7 +5,7 @@ roadmap untuk miniclass multimedia WRI
 ## Dasar Multimedia
 
 1.  **Dasar Multimedia**
-    - Kombinasi dan Komposisi Warna
+    - [Kombinasi dan Komposisi Warna](dasar/topik1/kombinasi-dan-komposisi-warna.md)
     - Konsep Visual Balance
     - Pengenalan Tipografi
     - Pengenalan Design Guide
@@ -23,7 +23,7 @@ roadmap untuk miniclass multimedia WRI
     - Masking
     - Manipulasi Photo & Artwork
 
-2.  **Pengenalan Pengolah vektor illustrator**
+2.  **Pengenalan Pengolah Vektor illustrator**
 
     - Pengenalan Tool
     - Konsep Layer
