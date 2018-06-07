@@ -36,24 +36,29 @@ roadmap untuk miniclass multimedia WRI
     - Mendesain Karakter
     - Mendesain Level
 
-## UI/UX
+## UI & UX
 
-1.  **Pengenalan UX**
+1.  **Fundamental UX dan UI**
 
-    - Pengenalan UX
-    - Implementasi UX Pada Apps
+    - Pengenalan UX dan UI
+    - Sejarah UX
+    - Sejarah UI
+    - Secret recipe
 
-2)  **Mendesain Interface**
+2)  **Tahapan UX**
 
-    - Pengenalan Tata Letak
-    - Mendesain Interface
+    - Discovery
+    - Define
+    - Ideation
+    - Design
+    - Develop
+    - Validation 
 
-3)  **Tahapan UX**
+4) **Peralatan simulasi UX**
+   - Whiteboard
+   - Sticky notes
+   - Spidol
 
-    - ... Stage
-    - ... Stage
-    - ... Stage
-    - ... Stage
-    - ... Stage
-
-4)
+6) **Other**
+   - Design Sprint 
+   - UX Honeycomb
