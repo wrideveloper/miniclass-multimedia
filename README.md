@@ -2,63 +2,57 @@
 
 roadmap untuk miniclass multimedia WRI
 
-## Dasar Multimedia
+## Desain Grafis
 
-1.  **Dasar Multimedia**
-    - [Kombinasi dan Komposisi Warna](dasar/topik1/kombinasi-dan-komposisi-warna.md)
-    - Konsep Visual Balance
-    - Pengenalan Tipografi
-    - Pengenalan Design Guide
-    - Format Dokumen
-
-## Digital Artist
-
-1.  **Pengenalan Pengolah Bitmap Photoshop**
-
-    - Pengenalan tool
-    - Konsep Layer
-    - Image Filter
-    - Selection
-    - Blending
+1.  **Pengenalan Teknik Dasar Vector**
+    - Shaping
+    - Coloring
     - Masking
-    - Manipulasi Photo & Artwork
+    - Tracing
 
-2.  **Pengenalan Pengolah Vektor illustrator**
+2.  **Pembuatan Icon**
+    - Pengenalan style guide icon
+    - Pembuatan icon
 
-    - Pengenalan Tool
-    - Konsep Layer
-    - Path Finder
-    - Symbol
-    - Membuat Infografis
+3.  **Pembuatan Asset Game 2D**    
+    - Pembuatan item
+    - Pembuatan environment
+    - Pembuatan karakter
 
-3.  **Membuat Asset Game 2D**
-    - Pengenalan Asset Style
-    - Mendesain Karakter
-    - Mendesain Level
+## UI
 
-## UI & UX
+1) **Pembuatan Komponen UI**
+   - Button
+   - Text Input
+   - Radio Button
+   - Checkbox
+   - Toggle
+   - Dropdown
+   - Progress Bar
+   - Slider
+   - Card
+   - Tabs
+   - Navigation
 
-1.  **Fundamental UX dan UI**
+2) **Wireframing**
+   - Layouting 
+   - Workflow
 
-    - Pengenalan UX dan UI
-    - Sejarah UX
-    - Sejarah UI
-    - Secret recipe
+3) **Mockup**
+   - Pembuatan mockup mobile 
+   - Pembuatan mockup web 
 
-2)  **Tahapan UX**
+4) **UX**
+   - Pengenalan UX 
+   - Langkah-langkah UX
 
-    - Discovery
-    - Define
-    - Ideation
-    - Design
-    - Develop
-    - Validation 
+## Videografi
 
-4) **Peralatan simulasi UX**
-   - Whiteboard
-   - Sticky notes
-   - Spidol
+1.  **Pengenalan Adobe Premier Pro**
+    - Pengenalan tool
 
-6) **Other**
-   - Design Sprint 
-   - UX Honeycomb
+2.  **Pengenalan Adobe After Effects**
+    - Pengenalan tool
+    
+3.  **Pengaplikasian**
+    - Pembuatan project video
