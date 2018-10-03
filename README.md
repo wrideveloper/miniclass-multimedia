@@ -1,11 +1,12 @@
 # Miniclass Multimedia
 
-roadmap untuk miniclass multimedia WRI
+Selamat datang di Miniclass Multimedia - Workshop Riset Informatika, disini terdapat beberapa materi yang diharapkan mampu membantu 
+anda untuk lebih memahami tentang Desain Grafis, UI dan Videografi.
 
 ## Desain Grafis
 
 1.  **Pengenalan Teknik Dasar Vector**
-    - Shaping
+    - Shaping 
     - Coloring
     - Masking
     - Tracing
